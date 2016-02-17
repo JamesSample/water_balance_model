@@ -16,4 +16,4 @@ If you're installing from scratch on Windows then I thoroughly recommend the [Wi
 
 ## Documentation
 
-The model is still under development, but a brief introduction to the basic structure and calibration process can be found [here]().
+The model is still under development, but a simple application for a single hydropower site in Scotland is described [here](https://github.com/JamesSample/water_balance_model/blob/master/JSample_EGU2015.pdf), along with some details of the calibration procedure.
